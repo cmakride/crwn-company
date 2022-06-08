@@ -1,4 +1,3 @@
-import './categories.styles.scss' 
 import CategoryList from './components/categoryList/categoryList';
 
 
